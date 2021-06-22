@@ -41,8 +41,11 @@ h2   {
 
 
 body {
+    display: flex;
+    
     height: 100vh; /* body vai pegar a altura total da tela*/
     background: var(--background);
+
 }
 
 body, button, input,textarea {
